@@ -7,6 +7,6 @@ I'm passionate about improving my programming skills and embracing new challenge
 ## Skills
 I'm skilled in Java, with little experience in Python and an interest growing in Go. Competitive programming keeps me sharp, fostering my problem-solving abilities and enhancing my coding skills. I have a genuine passion for crafting well-designed software and strive for clean, efficient code in all my projects. Currently, I'm immersing myself in cloud computing, particularly AWS, pursuing certification as an AWS Associate Architect. Always eager to expand my skill set and tackle new challenges in the dynamic world of technology.
 
-## How to reach me
+## Reach me on...
 - [LinkedIn 📖](https://www.linkedin.com/in/ivanharo/)
 - [Twitter 🐦](https://twitter.com/ivanhaaro)
