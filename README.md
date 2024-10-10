@@ -9,4 +9,3 @@ I'm skilled in Java, with little experience in Python and an interest growing in
 
 ## Reach me on...
 - [LinkedIn 📖](https://www.linkedin.com/in/ivanharo/)
-- [Twitter 🐦](https://twitter.com/ivanhaaro)
